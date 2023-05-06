@@ -1,2 +1,2 @@
 # ActiveDirectoryMindMap
-Download Xmind app to be able to see the mind map
+Download Xmind app to be able to see the mind map: https://xmind.app/
